@@ -1,5 +1,5 @@
 +++
-title = "Pythonで学ぶプログラミングの世界"
+title = "コードの魔法～Pythonで学ぶプログラミングの世界"
 weight = 1
 sort_by = "weight"
 +++
