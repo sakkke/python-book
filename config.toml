@@ -10,6 +10,9 @@ build_search_index = false
 # Theme
 theme = "book"
 
+# Title
+title = "コードの魔法～Pythonで学ぶプログラミングの世界"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
