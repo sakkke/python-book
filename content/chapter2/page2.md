@@ -27,7 +27,7 @@ weight = 3
 
 ### Visual Studio Code
 
-**Visual Studio Code（VSCode）**は、Microsoftが提供する無料の軽量なエディタで、多くの拡張機能が利用できます。以下にその特徴と使い方を説明します。
+**Visual Studio Code**（VSCode）は、Microsoftが提供する無料の軽量なエディタで、多くの拡張機能が利用できます。以下にその特徴と使い方を説明します。
 
 - **特徴**
   - **多言語対応**：Pythonだけでなく、多くのプログラミング言語に対応しています。
